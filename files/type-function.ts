@@ -22,5 +22,6 @@ console.log('Multiplica: '+ miFuncionMath(2,8)+'\n');
 
 miFuncionMath = resta;
 console.log('Resta: '+miFuncionMath(5,4)+'\n');
+ 
 
 
